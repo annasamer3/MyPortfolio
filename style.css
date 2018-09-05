@@ -1,0 +1,56 @@
+body{
+	background: #eaedf2;
+	padding:50px;
+}
+.main_container{
+	width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background: #fff;
+    }
+.header{
+    	width: 100%;
+}
+.header p{
+	line-height: 1.5;
+	font-family: calibri;
+		    float: left;
+    margin-right: 750px;
+}
+.content_first{
+font-family: calibri;
+}
+.content_first p b{
+	margin-right: 950px;
+}
+.content_second{
+font-family: calibri;
+}
+.content_second p b{
+	    margin-right: 950px;
+
+}
+.content_third{
+	font-family: calibri;
+
+}
+.content_fourth{
+font-family: calibri;
+}
+.contact_us table{
+	font-family: calibri;
+	width: 100%;
+}
+.contact_us table ,th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.contact_us table tr{
+	text-align: center;
+}
+button {
+	margin-top: 20px;
+	 border-radius : 5px;
+	 text-align: center;
+	 font-style: italic;
+}
